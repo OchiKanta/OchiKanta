@@ -1,6 +1,3 @@
-### Hi!
-<br/>
-
 I'm [Kanta Ochi](https://twitter.com/abc_kmlo)
 <br/>
 <br/>
