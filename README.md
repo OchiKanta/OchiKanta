@@ -21,7 +21,7 @@ I'm [Daichi Furiya](https://twitter.com/wasabeef_jp), a **[Google Developers Exp
 
 [![OchiKanta's github stats](https://github-readme-stats.OchiKanta.vercel.app/api?username=OchiKanta&show_icons=true&line_height=21&show_icons=true&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?OchiKanta=zizi4n5)](https://github.com/anuraghazra/github-readme-stats)
+https://github-readme-stats.vercel.app/api/top-langs/?OchiKanta=zizi4n5
 
 ### ♡ Top Sponsors
 
