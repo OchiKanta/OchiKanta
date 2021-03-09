@@ -11,7 +11,9 @@ I'm [Kanta Ochi](https://twitter.com/abc_kmlo)
 
 - 💻 Currently Not Working 
 
-- swift, dart, iOS, Android, Flutter, Xcode, Vscode
+- 💻 Previously, Working at Caraquri.inc and ReadHub.inc
+
+- 🙆‍♂️ swift, dart, iOS, Android, Flutter, Xcode, Vscode
 
 <br/>
 
