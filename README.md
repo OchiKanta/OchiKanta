@@ -8,9 +8,9 @@ I'm [Kanta Ochi](https://twitter.com/abc_kmlo)
 
 - 💻 Currently Not Working 
 
-- 💻 Previously, Working at Caraquri.inc and ReadHub.inc
+- 💻 Previously, Working at Caraquri.inc(2018/12-2020/03) and ReadHub.inc(2019/08-2021/02)
 
-- 🙆‍♂️ swift, dart, iOS, Android, Flutter, Xcode, Vscode
+- 🙆‍♂️ swift, dart, iOS, Android, Flutter, Firebase, Xcode, Vscode
 
 <br/>
 
