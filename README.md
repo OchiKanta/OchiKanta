@@ -7,13 +7,11 @@ I'm [Kanta Ochi](https://twitter.com/abc_kmlo)
 
 <img align="right" alt="coding User Image" src="https://raw.githubusercontent.com/OchiKanta/OchiKanta/master/icons/white.gif" height="180" />
 
-- 🗼 Living in **Tokyo, Japan**
+- 🎡 Living in **Yokohama, Japan**
 
-- 👨‍💻 Currently Working at CyberAgent and NowDo
+- 💻 Currently Not Working 
 
-- 👍 Dog and Gaming 🐶 🎮
-
-- ✈️ Open to Remote Job Opportunities 🍻
+- swift, dart, iOS, Android, Flutter, Xcode, Vscode
 
 <br/>
 
