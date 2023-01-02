@@ -6,7 +6,7 @@ I'm [Kanta Ochi](https://twitter.com/abc_kmlo)
 
 - 🎡 Living in **Yokohama, Japan**
 
-- 💻 Currently Not Working 
+- 💻 work at HOKUTO
 
 - 💻 Previously, Working at Caraquri.inc(2018/12-2020/03) and ReadHub.inc(2019/08-2021/02)
 
